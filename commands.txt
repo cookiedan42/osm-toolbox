@@ -1,0 +1,2 @@
+launch --> py jupyter notebook
+reload osm_toolbox --> py -m pip install ./
